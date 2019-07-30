@@ -23,7 +23,7 @@ library(DT)
 
 # 2019
 
-- Théo Michelot, Pierre Gloaguen, Paul G. Blackwell and Marie-Pierre Étienne. The Langevin diffusion as a continuous-time model of animal movement and habitat selection to appear in *Methods in Ecology and Evolution*. [arXiV](https://arxiv.org/abs/1810.10213)
+- Théo Michelot, Pierre Gloaguen, Paul G. Blackwell and Marie-Pierre Étienne. The Langevin diffusion as a continuous-time model of animal movement and habitat selection to appear in *Methods in Ecology and Evolution*. [arXiv](https://arxiv.org/abs/1810.10213)
 
 
 - Rocio Joo, Matthew E. Boone, Thomas A. Clay, Samantha C. Patrick, Susana
