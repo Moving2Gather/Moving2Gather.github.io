@@ -1,0 +1,60 @@
+---
+title: "People"
+output: 
+  html_document:
+   number_sections: false
+   css: style.css
+---
+
+
+
+```{r setup_peopleg, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(DT)
+```
+
+
+
+<img src="img/logo_m2g_rvb_300dpi.png" hspace = "30"  alt="mpe" width="200px" align="right"> </img>
+
+
+Moving2Gather is a group of  Researchers, Master and PhD students  involved in the development or the use of models and methods for movement ecology.
+
+# Members
+
+
+
+```{r}
+members <- read_csv("Members.csv", col_types = "ccc") %>% arrange(Nom, Prénom)
+
+datatable(members, options = list(pageLength = nrow(members), dom = "t"))
+```
+
+# Former Students
+
+## Master Students
+
+- Dedah Amhed Babou 2016
+- Guillaume Bessigneul 2012
+- Pierre Gloaguen 2012
+
+
+## PhD Students
+
+- Camille Assali 2014-2017
+- Pierre Gloaguen 2012 - 2015
+
+
+## Post Doc 
+
+- Rocio Joo 2016-2017 Analyse des comportements en dyades : revue critique des indicateurs disponibles et application aux bateaux de pêche
+- Pierre Gloaguen 2015-2016 Interaction de trajectoires, développement méthodologiques
+- Mathieu Woillez 2013 : classification des trajectoires
+
+
+
+
+  
+
+  

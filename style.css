@@ -1,0 +1,31 @@
+
+
+h2, h3, h4, h5, h6, h7, h8 {
+ color: #1f5591;   
+}
+
+
+p {
+  color: #2e302f;
+  font-size: large
+}
+
+
+h1{
+   color: #F39200;
+    margin: 20px -20px;
+}
+
+
+.nav.navbar-nav.navbar-right li a {
+    color: #1f5591;
+}
+
+
+.navbar.navbar-default.navbar-fixed-top li a {
+    color: #1f5591;
+}
+
+.title.toc-ignore a{
+   color: #F39200;
+}

@@ -1,0 +1,36 @@
+name: "Moving2Gather Group"
+output_dir: "."
+navbar:
+  logo: LogoAgrocampusOuest.jpg
+  title: 'Moving2Gather'
+  left:
+  - text: "People "
+    icon: fa-child
+    href: people.html
+  - text: "News"
+    href: news.html
+    icon: fa-commenting  
+  - text: "Moving2Gather Workshop"
+    href: m2gWorkshop.html
+    icon: fa-comment-o
+    menu:
+      - text: "2017"
+        href: https://m2g-2017.sciencesconf.org/
+      - text: "2015"
+        href: https://moving2gather.sciencesconf.org/
+  right:
+  - text: "Github"
+    icon: fa-github
+    href: https://github.com/Moving2Gather
+  - text: "Publications"
+    href: publications.html
+    icon: fa-file-text-o
+
+     
+      
+output:
+  html_document:
+    theme: lumen
+    highlight: haddock
+
+    
