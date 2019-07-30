@@ -19,4 +19,4 @@ library(DT)
 <img src="img/logo_m2g_rvb_300dpi.png" hspace = "30"  alt="mpe" width="200px" align="right"> </img>
 
 
-**Keep the date !**  The next edition of the Moving2Gather workshop will take place in Agrocampus Ouest in Rennes, March 23rd 25th. There will be a nice follow up as the GdR Ecostat meeting will take place at the same venue on March 26th , 27th. 
+**Save the date !**  The next edition of the Moving2Gather workshop will take place in Agrocampus Ouest in Rennes, March 23rd 25th. There will be a nice follow up as the GdR Ecostat meeting will take place at the same venue on March 26th , 27th. 
